@@ -30,7 +30,7 @@ Confira exemplos em `exemplos/`.
 - Guia Rápido de Networking Estratégico no LinkedIn (PDF)
 
 ## 📽️ Tutorial
-Assista aqui: [link do vídeo](https://...)
+Assista aqui: [link do vídeo](https://...) (em breve)
 
 ## 🧪 Em Desenvolvimento
 Versão com Streamlit
