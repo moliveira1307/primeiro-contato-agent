@@ -18,7 +18,7 @@ Confira exemplos em `exemplos/`.
 ## ▶️ Como configurar
 1. Abra o Google Gemini > Novo Gem
 2. Copie e cole o prompt do arquivo `agente_config.txt` nas Instruções
-3. Anexe os documentos de apoio
+3. Anexe os arquivos citados em Documentos de Apoio
 4. Responda as perguntas do agente com:
    - Seu nome, área e objetivo
    - Quem é o destinatário da mensagem
