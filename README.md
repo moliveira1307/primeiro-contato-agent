@@ -33,4 +33,4 @@ Confira exemplos em `exemplos/`.
 Assista aqui: [link do vídeo](https://...)
 
 ## 🧪 Em Desenvolvimento
-
+Versão com Streamlit
