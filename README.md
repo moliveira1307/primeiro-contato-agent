@@ -35,5 +35,6 @@ Assista aqui: [link do vídeo](https://...) (em breve)
 ## 🧪 Em Desenvolvimento
 Versão com Streamlit
 
-Criado por Marília Oliveira
+
+**Criado por [Marília Oliveira](https://www.linkedin.com/in/moliveira1307/)**  
 Especialista em sistemas, dados e branding profissional com foco em tecnologia.
